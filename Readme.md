@@ -38,7 +38,7 @@
 
 
 ## Visual:
-
+![Team](./media/team.PNG)
 ![failed test](./media/failed%20test.PNG)
 ![pass test](./media/pass.PNG)
 
@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=oh7ybwD1XAM&ab_channel=MarianaHernandez
 
     Clone the repo:
 
-
+https://github.com/Mariana21hch/TeamProfileGenerator
 
 ---
 
