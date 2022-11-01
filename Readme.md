@@ -24,7 +24,7 @@
 
 ## About:
 
-  We had to create a README Generator. This makes it mush easier t creat a README file for my work as all the questions are already pre created for each section of the file.
+  We had to create a Team generator. 
 
 ---
 
@@ -39,15 +39,19 @@
 
 ## Visual:
 
+![failed test](./media/failed%20test.PNG)
+![pass test](./media/pass.PNG)
+
+https://www.youtube.com/watch?v=oh7ybwD1XAM&ab_channel=MarianaHernandez
 ---
 
 ## Installation:
 
-  https://github.com/Mariana21hch/READMEgenerator
+
 
     Clone the repo:
 
-      git clone https://github.com/Mariana21hch/READMEgenerator
+
 
 ---
 
@@ -66,11 +70,11 @@
 
 ## Authors and Acknowlegements:
 
-https://github.com/nicolewallace09/team-profile-generator
-
- https://www.youtube.com/watch?v=o8hkjz1TQuQ&ab_channel=MYENGINEERINGHACKS
+https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator
  
+https://www.youtube.com/watch?v=soKo5LzN12w&ab_channel=GP
 
+https://www.youtube.com/watch?v=vDJpGenyHaA&ab_channel=TraversyMedia
 ---
 
 ## Contact Information:

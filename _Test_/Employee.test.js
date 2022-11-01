@@ -45,6 +45,6 @@ test("Can test email through getEmail method.", () => {
 
 test("Testing role.", () => {
     const returnValue = "Employee";
-    const employeeInstance = new Employee("MAriana", 21, "mariana21hch@gmail.com");
+    const employeeInstance = new Employee("Mariana", 21, "mariana21hch@gmail.com");
     expect(employeeInstance.getRole()).toBe(returnValue);
 })
