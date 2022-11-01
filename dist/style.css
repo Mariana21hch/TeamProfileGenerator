@@ -1,0 +1,21 @@
+.jumbotron {
+    border-radius: 0;
+}
+
+.employee-card {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1rem;
+    border: none;
+}
+
+.card-body {
+    background-color: rgb(240, 240, 240);
+}
+
+.bg-danger{
+    background-color:#8E9AAF !important ;
+}
+
+.card-header{
+    background-color: #A693B4 !important;
+}
